@@ -1,7 +1,7 @@
 import MyMessage from './MyMessage';
 import TheirMessage from './TheirMessage';
 import MessageForm from './MessageForm';
-import Logout from './logout';//
+import Logout from './logout';
 
 
 const ChatFeed = (props) => {
